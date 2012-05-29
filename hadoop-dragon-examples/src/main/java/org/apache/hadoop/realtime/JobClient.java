@@ -12,6 +12,5 @@ public class JobClient
         System.out.println( "Hello Dragon 1!");
         System.out.println( "Hello Dragon 2!");
         System.out.println( "Hello Dragon 3!");
-
     }
 }
